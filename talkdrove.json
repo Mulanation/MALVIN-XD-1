@@ -10,7 +10,7 @@
     "SESSION_ID": {
       "description": "Must Start with 'malvin~'",
       "required": true,
-      "value": ""
+      "value": "malvin~cysyzBiS#Gj5vRmV3gc0D_Mlbccg4yLK4pDgnmdXUuktydUjPT1c"
     },
       "BOT_NAME": {
         "description": "write here your bot name.",
